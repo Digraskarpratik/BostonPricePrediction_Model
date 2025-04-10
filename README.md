@@ -33,3 +33,14 @@ MEDV Median value of owner-occupied homes in $1000's
 # Target Column: MEDV 
 
 # Type of Problem: Regression Analysis [Multivariate Analysis]
+
+
+# 
+1. data_loading.py
+2. data_preprocessing.py
+3. data_scaling.py
+4. model_building.py
+5. pickle_model.py
+6. requirements.txt
+7. setup.py
+
